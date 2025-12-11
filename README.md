@@ -1,6 +1,9 @@
 <!-- ====== THUMBNAIL / HEADER IMAGE ====== -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2fd3c499-bed7-4ab4-a0cd-e1fb9da5a0d5" />
+  <img src="<p align="center">
+  <img src="https://raw.githubusercontent.com/HimasriSama/movie-recommendation-system/main/thumbnail.png" width="850" alt="Movie Recommendation System Thumbnail">
+</p>
+" />
 
 </p>
 
