@@ -2,8 +2,6 @@
 <p align="center">
   <img src="<p align="center">
   <img src="https://raw.githubusercontent.com/HimasriSama/movie-recommendation-system/main/thumbnail.png" width="850" >
-</p>
-" />
 
 </p>
 
