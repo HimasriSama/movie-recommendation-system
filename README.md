@@ -1,7 +1,7 @@
 <!-- ====== THUMBNAIL / HEADER IMAGE ====== -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2fd3c499-bed7-4ab4-a0cd-e1fb9da5a0d5" />
- alt="Movie Recommendation System" width="850">
+
 </p>
 
 # 🎬 Movie Recommendation System (Content-Based + Collaborative Filtering)
