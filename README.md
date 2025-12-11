@@ -53,7 +53,7 @@ movie-recommendation-system/
 ---
 
 ## 📝 Author  
-Himasri Chandana
+S. Himasri Chandana
 
 ---
 
